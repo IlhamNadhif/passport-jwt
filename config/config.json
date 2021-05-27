@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "ilham",
+    "password": "Ilham12345",
+    "database": "passport_jwt",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "ilham",
+    "password": "Ilham12345",
+    "database": "passport_jwt",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "ilham",
+    "password": "Ilham12345",
+    "database": "passport_jwt",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
